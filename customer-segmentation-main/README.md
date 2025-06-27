@@ -1,5 +1,3 @@
-![alt text](https://ineuron.ai/images/ineuron-logo.png)
-
 # Customer Personality Segmentation
 
 ## Problem statement
