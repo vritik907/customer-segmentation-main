@@ -31,9 +31,13 @@ You can find the dataset [here](https://www.kaggle.com/datasets/vjchoudhary7/cus
 ## 📁 Project Structure
 
 customer-segmentation-main/
+
 ├── customer_segmentation.ipynb # Main notebook with analysis and clustering
+
 ├── customer_data.csv # Dataset
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Required Python packages
 
 
